@@ -7,8 +7,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/silenceper/wechat/context"
-	"github.com/silenceper/wechat/util"
+	"github.com/LibiChai/wechat/context"
+	"github.com/LibiChai/wechat/util"
 )
 
 var payGateway = "https://api.mch.weixin.qq.com/pay/unifiedorder"
